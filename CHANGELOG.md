@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/NishaSharma14/nmrxiv-release-please/compare/v1.1.0...v1.2.0) (2022-09-01)
+
+
+### Features
+
+* Feature-1 implemented. ([5586fec](https://github.com/NishaSharma14/nmrxiv-release-please/commit/5586fec656e1391674728f2eb6cfb9185b68a9b9))
+
 ## [1.1.0](https://github.com/NishaSharma14/nmrxiv-release-please/compare/v1.0.0...v1.1.0) (2022-09-01)
 
 
