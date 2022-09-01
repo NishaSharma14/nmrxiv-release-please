@@ -259,7 +259,7 @@
                                 >
                                 <span class="block text-teal-200"
                                     >NMR spectroscopy data repository and
-                                    analysis platform.</span
+                                    analysis platform. hellow world</span
                                 >
                             </h1>
                             <p
