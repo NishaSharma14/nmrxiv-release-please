@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0-beta.2](https://github.com/NishaSharma14/nmrxiv-release-please/compare/v1.0.0-beta.2...v1.1.0-beta.2) (2023-08-30)
+
+
+### Features
+
+* Update Welcome page. ([90132b6](https://github.com/NishaSharma14/nmrxiv-release-please/commit/90132b6b76e2da620487964cfb04d929e209f6dd))
+
 ## [1.3.0](https://github.com/NishaSharma14/nmrxiv-release-please/compare/v1.2.0...v1.3.0) (2022-10-21)
 
 
